@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Kcal Counter</string>
+    <string name="titulo">Calorías Semanales</string>
+    <string name="txt_lunes">Lunes</string>
+    <string name="txt_martes">Martes</string>
+    <string name="txt_miercoles">Miércoles</string>
+    <string name="txt_jueves">Jueves</string>
+    <string name="txt_viernes">Viernes</string>
+    <string name="txt_sabado">Sábado</string>
+    <string name="txt_domingo">Domingo</string>
+    <string name="txt_total">TOTAL</string>
+    <string name="radio_gym">Gym</string>
+    <string name="radio_legday">Leg Day</string>
+    <string name="radio_full_week">Full Week</string>
+    <string name="btn_editar">Editar Cantidad de Calorías</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_borrar">Borrar</string>
+    <string name="btn_total">Calcular Calorías</string>
+    <string name="btn_fecha">Cambiar Fecha</string>
+    <string name="btn_historial">Ver Historial</string>
+    <string name="titulo_historial">Calorías de la Semana Actual</string>
+    <string name="txt_restantes">Calorías Restantes</string>
+    <string name="btn_home">Volver al Home</string>
+    <string name="buscar">Buscar</string>
+    <string name="titulo_buscar">Calorías por Día</string>
+    <string name="txt_fecha_buscada">Fecha Buscada</string>
+    <string name="txt_calorias_buscadas">Calorías</string>
+    <string name="btn_buscar">Buscar Datos</string>
+    <string name="txt_fecha">Fecha</string>
+</resources>
